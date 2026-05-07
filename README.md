@@ -1,6 +1,8 @@
 # CounterReactBot
 A CS2 GSI intergration for Reactbot
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a717f808923e4ff99e7f3b249a2ed05c)](https://app.codacy.com/gh/Foxache/CounterReactBot/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 For optimal reading experience go to Format and change to black with comic sans.
 A breakdown of all features is availiable on my channel DingusDongulus
 ALL CREDITS ARE GIVEN AT THE BOTTOM OF THIS PAGE.
